@@ -3,7 +3,7 @@
 
 {
     'name': 'Automation Rules',
-    'version': '1.2',
+    'version': '1.3',
     'category': 'Sales/Sales',
     'description': """
 This module allows to implement automation rules for any object.
